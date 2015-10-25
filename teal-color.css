@@ -1,0 +1,179 @@
+/*------------------------------------------------------*/
+/*--||                                              ||--*/
+/*--||        Create by ThoiNV on 8/22/2015.        ||--*/
+/*--||                                              ||--*/
+/*------------------------------------------------------*/
+
+.color-teal-50 {
+    color: #E0F2F1;
+}
+.bg-teal-50 {
+    background: #E0F2F1;
+}
+
+.color-teal-100 {
+    color: #B2DFDB;
+}
+.bg-teal-100 {
+    background: #B2DFDB;
+}
+
+.color-teal-200 {
+    color: #80CBC4;
+}
+.bg-teal-200 {
+    background: #80CBC4;
+}
+
+.color-teal-300 {
+    color: #4DB6AC;
+}
+.bg-teal-300 {
+    background: #4DB6AC;
+}
+
+.color-teal-400 {
+    color: #26A69A;
+}
+.bg-teal-400 {
+    background: #26A69A;
+}
+
+.color-teal-500 {
+    color: #009688;
+}
+.bg-teal-500 {
+    background: #009688;
+}
+
+.color-teal-600 {
+    color: #00897B;
+}
+.bg-teal-600 {
+    background: #00897B;
+}
+
+.color-teal-700 {
+    color: #00796B;
+}
+.bg-teal-700 {
+    background: #00796B;
+}
+
+.color-teal-800 {
+    color: #00695C;
+}
+.bg-teal-800 {
+    background: #00695C;
+}
+
+.color-teal-900 {
+    color: #004D40;
+}
+.bg-teal-900 {
+    background: #004D40;
+}
+
+.color-teal-a100 {
+    color: #A7FFEB;
+}
+.bg-teal-a100 {
+    background: #A7FFEB;
+}
+
+.color-teal-a200 {
+    color: #64FFDA;
+}
+.bg-teal-a200 {
+    background: #64FFDA;
+}
+
+.color-teal-a400 {
+    color: #1DE9B6;
+}
+.bg-teal-a400 {
+    background: #1DE9B6;
+}
+
+.color-teal-a700 {
+    color: #00BFA5;
+}
+.bg-teal-a700 {
+    background: #00BFA5;
+}
+
+.bg-teal-50, .bg-teal-100, .bg-teal-200, .bg-teal-300, .bg-teal-400, .bg-teal-a100, .bg-teal-a200, .bg-teal-a400, .bg-teal-a700{
+    color: rgba(0,0,0,0.87);
+}
+.bg-teal-500, .bg-teal-600, .bg-teal-700, .bg-teal-800, .bg-teal-900{
+    color: #fff;
+}
+
+
+a{
+    color: #009688;
+}
+a:hover, a:active, a:focus{
+    color: #80CBC4;
+}
+
+/*----------------------------------BUTTON------------------------------------------------*/
+.btn-flat-small, .btn-flat, .btn-flat-large, .btn-circle, .btn, .btn-large{
+    background: #009688;
+    color: #fff;
+}
+
+
+/*-------------------------------------TAB--------------------------------------------------*/
+.radio-tab:checked + .label-tab {
+    color: #009688;
+}
+.label-tab{
+    color: #009688;
+}
+section.content-tab{
+    background-color: #E0F2F1;
+    color: rgba(0,0,0,0.87);
+}
+
+
+/*---------------------------------------FORM---------------------------------------------------*/
+input[type=text]:focus ~ .input-label, input[type=text]:valid ~ .input-label,
+input[type=password]:focus ~ .input-label, input[type=password]:valid ~ .input-label,
+input[type=email]:focus ~ .input-label, input[type=email]:valid ~ .input-label,
+input[type=search]:focus ~ .input-label, input[type=search]:valid ~ .input-label,
+input[type=number]:focus ~ .input-label, input[type=number]:valid ~ .input-label,
+input[type=time]:focus ~ .input-label, input[type=time]:valid ~ .input-label,
+input[type=tel]:focus ~ .input-label, input[type=tel]:valid ~ .input-label,
+input[type=date]:focus ~ .input-label, input[type=date]:valid ~ .input-label,
+input[type=datetime]:focus ~ .input-label, input[type=datetime]:valid ~ .input-label,
+input[type=datetime-local]:focus ~ .input-label, input[type=datetime-local]:valid ~ .input-label,
+input[type=url]:focus ~ .input-label, input[type=url]:valid ~ .input-label,
+textarea:focus ~ .input-label, textarea:valid ~ .input-label{
+    color: #009688;
+}
+
+input:focus ~ .icons, input:valid ~ .icons{
+    color: #009688;
+}
+
+.input-bar:before, .input-bar:after{
+    background: #009688;
+}
+
+/*input[type=text]:focus, input[type=password]:focus{*/
+    /*border-bottom: 2px solid #009688;*/
+    /*outline: none;*/
+/*}*/
+
+.checkbox:checked:before {
+    border-color: #009688;
+}
+
+
+.radio input:checked + .outer {
+    color: #009688;
+}
+.radio input:focus + .outer .inner, .radio .inner {
+    background-color: #009688;
+}
